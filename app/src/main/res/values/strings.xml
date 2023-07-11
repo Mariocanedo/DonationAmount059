@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DonationAmount_059</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="total_donaciones">Total donaciones :%1$s</string>
+    <string name="ingrese_una_donacion">Ingrese una Donación</string>
+    <string name="donacion">Donación</string>
+    <string name="donar">Donar</string>
+</resources>
